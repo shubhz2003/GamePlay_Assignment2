@@ -1,0 +1,1459 @@
+﻿Log file open, 11/15/22 20:24:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=6360)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GamePlay_Assignment2
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\klajd\Desktop\TestGIT\GamePlay_Assignment2\GamePlay_Assignment2\GamePlay_Assignment2.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1098] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="547ccb2348513537f2f67398f316476b"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.268029
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-7E32792840D7D2C7A9C2C399D0DC8672
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1098] (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.16-01.24.23:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.16-01.24.23:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.16-01.24.23:925][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.16-01.24.23:928][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.16-01.24.23:928][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.16-01.24.23:928][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.16-01.24.23:928][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.16-01.24.23:928][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.16-01.24.23:928][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.16-01.24.23:928][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.16-01.24.23:928][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.16-01.24.23:928][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.16-01.24.23:928][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.16-01.24.23:928][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.16-01.24.23:946][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.16-01.24.23:946][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.16-01.24.24:107][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.16-01.24.24:107][  0]LogD3D12RHI: Adapter has 6023MB of dedicated video memory, 0MB of dedicated system memory, and 8073MB of shared system memory, 1 output[s]
+[2022.11.16-01.24.24:156][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.16-01.24.24:156][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8073MB of shared system memory, 0 output[s]
+[2022.11.16-01.24.24:164][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.16-01.24.24:164][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8073MB of shared system memory, 0 output[s]
+[2022.11.16-01.24.24:164][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.16-01.24.24:164][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.16-01.24.24:164][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.16-01.24.24:164][  0]LogHAL: Display: Platform has ~ 16 GB [16931676160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.16-01.24.24:164][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.16-01.24.24:164][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.16-01.24.24:164][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.16-01.24.24:165][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.16-01.24.24:165][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.16-01.24.24:165][  0]LogInit: Computer: KLAJDI
+[2022.11.16-01.24.24:165][  0]LogInit: User: klajd
+[2022.11.16-01.24.24:165][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.16-01.24.24:165][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.16-01.24.24:165][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.11.16-01.24.24:165][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.16-01.24.24:165][  0]LogMemory: Process Physical Memory: 286.34 MB used, 290.77 MB peak
+[2022.11.16-01.24.24:165][  0]LogMemory: Process Virtual Memory: 256.85 MB used, 256.85 MB peak
+[2022.11.16-01.24.24:165][  0]LogMemory: Physical Memory: 8761.58 MB used,  7385.72 MB free, 16147.30 MB total
+[2022.11.16-01.24.24:165][  0]LogMemory: Virtual Memory: 10966.51 MB used,  7612.79 MB free, 18579.30 MB total
+[2022.11.16-01.24.24:165][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.16-01.24.24:170][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.16-01.24.24:183][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.16-01.24.24:184][  0]LogInit: Using OS detected language (en-US).
+[2022.11.16-01.24.24:184][  0]LogInit: Using OS detected locale (en-CA).
+[2022.11.16-01.24.24:188][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.11.16-01.24.24:309][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.16-01.24.24:322][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.16-01.24.24:322][  0]LogWindowsTextInputMethodSystem:   - English (Canada) - (Keyboard).
+[2022.11.16-01.24.24:322][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.16-01.24.24:322][  0]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2022.11.16-01.24.24:333][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.16-01.24.24:333][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.16-01.24.24:429][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.16-01.24.24:432][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.16-01.24.24:432][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.16-01.24.24:500][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.16-01.24.24:604][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.16-01.24.24:610][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.16-01.24.24:625][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.16-01.24.24:653][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.16-01.24.24:653][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.16-01.24.24:678][  0]LogD3D12RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.16-01.24.24:678][  0]LogWindows: Attached monitors:
+[2022.11.16-01.24.24:678][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.16-01.24.24:678][  0]LogWindows: Found 1 attached monitors.
+[2022.11.16-01.24.24:678][  0]LogWindows: EnumDisplayDevices:
+[2022.11.16-01.24.24:678][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.16-01.24.24:679][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.11.16-01.24.24:679][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.16-01.24.24:679][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.16-01.24.24:679][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.11.16-01.24.24:679][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.11.16-01.24.24:679][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.11.16-01.24.24:679][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.11.16-01.24.24:679][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.11.16-01.24.24:679][  0]LogRHI: Texture pool is 3310 MB (70% of 4729 MB)
+[2022.11.16-01.24.24:679][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.16-01.24.24:679][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.16-01.24.24:689][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.16-01.24.24:697][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/GamePlay_Assignment2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Intermediate/TurnkeyReport_0.log" -log="C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Intermediate/TurnkeyLog_0.log" -project="C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/GamePlay_Assignment2.uproject"  -platform=all'
+[2022.11.16-01.24.24:697][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/GamePlay_Assignment2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Intermediate/TurnkeyReport_0.log" -log="C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Intermediate/TurnkeyLog_0.log" -project="C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/GamePlay_Assignment2.uproject"  -platform=all" ]
+[2022.11.16-01.24.24:724][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.16-01.24.24:731][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.16-01.24.24:731][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.16-01.24.24:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.16-01.24.24:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.16-01.24.24:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.16-01.24.24:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.16-01.24.24:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.16-01.24.24:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.16-01.24.24:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.16-01.24.24:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.16-01.24.24:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.16-01.24.24:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.16-01.24.24:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.16-01.24.24:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.16-01.24.24:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.16-01.24.24:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.16-01.24.24:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.16-01.24.24:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.16-01.24.24:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.16-01.24.24:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.16-01.24.24:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.16-01.24.24:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.16-01.24.24:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.16-01.24.24:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.16-01.24.24:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.16-01.24.24:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.16-01.24.24:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.16-01.24.24:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.16-01.24.24:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.16-01.24.24:774][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.16-01.24.24:783][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.16-01.24.24:786][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.16-01.24.24:786][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.16-01.24.24:786][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.16-01.24.24:786][  0]LogTargetPlatformManager:   PCM
+[2022.11.16-01.24.24:789][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.16-01.24.24:789][  0]LogTargetPlatformManager:   BINKA
+[2022.11.16-01.24.24:789][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.16-01.24.24:789][  0]LogTargetPlatformManager:   OGG
+[2022.11.16-01.24.24:789][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.16-01.24.24:789][  0]LogTargetPlatformManager:   OPUS
+[2022.11.16-01.24.24:829][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.16-01.24.24:834][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.16-01.24.24:837][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.16-01.24.24:837][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.16-01.24.24:837][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.16-01.24.24:837][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.16-01.24.24:837][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.16-01.24.24:837][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.16-01.24.24:837][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.16-01.24.24:837][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.16-01.24.24:837][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.16-01.24.24:837][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.16-01.24.24:838][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.16-01.24.24:838][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.16-01.24.24:841][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.16-01.24.24:841][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.16-01.24.24:841][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.16-01.24.24:841][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.16-01.24.24:857][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.16-01.24.24:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.16-01.24.24:857][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.16-01.24.24:868][  0]LogDerivedDataCache: Speed tests for C:/Users/klajd/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.16-01.24.24:868][  0]LogDerivedDataCache: Display: Performance to C:/Users/klajd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=246.75MBs, RandomWriteSpeed=138.27MBs. Assigned SpeedClass 'Local'
+[2022.11.16-01.24.24:869][  0]LogDerivedDataCache: Using Local data cache path C:/Users/klajd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.16-01.24.24:869][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.16-01.24.24:869][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.16-01.24.24:874][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.16-01.24.24:874][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.16-01.24.24:875][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Intermediate/Shaders/WorkingDirectory/7644/).
+[2022.11.16-01.24.24:875][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/klajd/AppData/Local/Temp/UnrealShaderWorkingDir/A4A9C396400427A97045EC9D3ED38BA9/'.
+[2022.11.16-01.24.24:875][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.16-01.24.24:875][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.11.16-01.24.26:020][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.16-01.24.26:020][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.16-01.24.26:020][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.16-01.24.26:055][  0]LogAssetRegistry: FAssetRegistry took 0.0124 seconds to start up
+[2022.11.16-01.24.26:060][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.16-01.24.26:219][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.16-01.24.26:220][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.16-01.24.26:447][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.16-01.24.26:447][  0]LogDeviceProfileManager: Active device profile: [00000A5FB42D7540][00000A5F9B620000 50] WindowsEditor
+[2022.11.16-01.24.26:447][  0]LogDeviceProfileManager: Profiles: [00000A5FB42D7000][00000A5FA87B0000 50] Windows, [00000A5FB42D7540][00000A5F9B620000 50] WindowsEditor, [00000A5FB42D6580][00000A5FB45B0000 50] WindowsServer, [00000A5FB42D3800][00000A5FB45B5000 50] WindowsClient, [00000A5FB42D39C0][00000A5FB45B7800 50] IOS, [00000A5FB42D6E40][00000A5FB45BA000 50] iPadAir2, [00000A5FB42D6C80][00000A5FA8775000 50] IPadPro, [00000A5FB42D2140][00000A5FB45BC800 50] iPadAir3, [00000A5FB42D5940][00000A5FB45F0000 50] iPadAir4, [00000A5FB42D4440][00000A5FB45F5000 50] iPadMini4, [00000A5FB42D24C0][00000A5FB45F7800 50] iPadMini5, [00000A5FB42D7C40][00000A5FB45FA000 50] iPadMini6, [00000A5FB42DA2C0][00000A5FB4640000 50] iPhone6S, [00000A5FB42DA640][00000A5FB4642800 50] iPhone7, [00000A5FB42DA9C0][00000A5FB4645000 50] iPodTouch7, [00000A5FB42D5CC0][00000A5FB464A000 50] iPhone6SPlus, [00000A5FB42D9F40][00000A5FB464C800 50] iPhone7Plus, [00000A5FB42D4980][00000A5FB45B2800 50] iPhoneSE, [00000A5FB42D3F00][00000A5FB45FC800 50] iPhone8, [00000A5FB42D9D80][00000A5FB4647800 50] iPhone8Plus, [00000A5FB42D6040][00000A5FB4610000 50] iPhoneX, [00000A5FB42D5080][00000A5FB4615000 50] iPhoneXS, [00000A5FB42D9BC0][00000A5FB4617800 50] iPhoneXSMax, [00000A5FB42D3B80][00000A5FB461A000 50] iPhoneXR, [00000A5FB42D9A00][00000A5FB461C800 50] iPhone11, [00000A5FB42D7E00][00000A5FB45F2800 50] iPhone11Pro, [00000A5FB42D9840][00000A5FB4620000 50] iPhone11ProMax, [00000A5FB42D6AC0][00000A5FB4625000 50] iPhoneSE2, [00000A5FB42D9680][00000A5FB4627800 50] iPhone12Mini, [00000A5FB42D6200][00000A5FB462A000 50] iPhone12, [00000A5FB42D4EC0][00000A5FB462C800 50] iPhone12Pro, [00000A5FB42D5780][00000A5FB4612800 50] iPhone12ProMax, [00000A5FB42DA100][00000A5FB4630000 50] iPhone13Mini, [00000A5FB42D7700][00000A5FB4635000 50] iPhone13, [00000A5FB42D86C0][00000A5FB4637800 50] iPhone13Pro, [00000A5FB42D2BC0][00000A5FB463A000 50] iPhone13ProMax, [00000A5FB42D5B00][00000A5FB463C800 50] iPadPro105, [00000A5FB42D94C0][00000A5FB4622800 50] iPadPro129, [00000A5FB42D4600][00000A5FB4650000 50] iPadPro97, [00000A5FB42D8880][00000A5FB4655000 50] iPadPro2_129, [00000A5FB42D2F40][00000A5FB4657800 50] iPad5, [00000A5FB42D8C00][00000A5FB465A000 50] iPad6, [00000A5FB42D47C0][00000A5FB465C800 50] iPad7, [00000A5FB42D5E80][00000A5FB4632800 50] iPad8, [00000A5FB42D4B40][00000A5FB4660000 50] iPad9, [00000A5FB42D5240][00000A5FB4665000 50] iPadPro11, [00000A5FB42D3100][00000A5FB4667800 50] iPadPro2_11, [00000A5FB42D5400][00000A5FB466A000 50] iPadPro3_11, [00000A5FB42DA800][00000A5FB466C800 50] iPadPro3_129, [00000A5FB42D3640][00000A5FB4652800 50] iPadPro4_129, [00000A5FB42D32C0][00000A5FB4670000 50] iPadPro5_129, [00000A5FB42D3D40][00000A5FB4675000 50] AppleTV, [00000A5FB42D9140][00000A5FB4677800 50] AppleTV4K, [00000A5FB42D4D00][00000A5FB467A000 50] TVOS, [00000A5FB42DC940][00000A5FB4662800 50] Mac, [00000A5FB42DC780][00000A5FB467C800 50] MacEditor, [00000A5FB42D4280][00000A5FB4680000 50] MacClient, [00000A5FB42DC240][00000A5FB4685000 50] MacServer, [00000A5FB42DD040][00000A5FB468A000 50] Linux, [00000A5FB42DD3C0][00000A5FB4687800 50] LinuxEditor, [00000A5FB42D6900][00000A5FB468C800 50] LinuxArm64Editor, [00000A5FB42D40C0][00000A5FB4672800 50] LinuxArm64, [00000A5FB42DB440][00000A5FB4690000 50] LinuxClient, [00000A5FB42DD580][00000A5FB4695000 50] LinuxArm64Client, [00000A5FB42DCE80][00000A5FB4697800 50] LinuxServer, [00000A5FB42DB0C0][00000A5FB469A000 50] LinuxArm64Server, [00000A5FB42D63C0][00000A5FB469C800 50] Android, [00000A5FB42DCB00][00000A5FB4682800 50] Android_Preview_OpenGL, [00000A5FB42D8180][00000A5FB46A0000 50] Android_Preview_Vulkan, [00000A5FB42DD740][00000A5FB46A5000 50] Android_Low, [00000A5FB42D8F80][00000A5FB46A7800 50] Android_Mid, [00000A5FB42DBD00][00000A5FB46AA000 50] Android_High, [00000A5FB42D7A80][00000A5FB46AC800 50] Android_Default, [00000A5FB42D8500][00000A5FB4692800 50] Android_Adreno4xx, [00000A5FB42DAB80][00000A5FB46B0000 50] Android_Adreno5xx_Low, [00000A5FB42D7FC0][00000A5FB46B5000 50] Android_Adreno5xx, [00000A5FB42D2D80][00000A5FB46B7800 50] Android_Adreno6xx, [00000A5FB42DBB40][00000A5FB46BA000 50] Android_Adreno6xx_Vulkan, [00000A5FB42DB980][00000A5FB46BC800 50] Android_Adreno7xx, [00000A5FB42D8A40][00000A5FB46A2800 50] Android_Adreno7xx_Vulkan, [00000A5FB42D8340][00000A5FB46C0000 50] Android_Mali_T6xx, [00000A5FB42DC5C0][00000A5FB46C5000 50] Android_Mali_T7xx, [00000A5FB42DB7C0][00000A5FB46C7800 50] Android_Mali_T8xx, [00000A5FB42DB600][00000A5FB46CA000 50] Android_Mali_G71, [00000A5FB42D8DC0][00000A5FB46CC800 50] Android_Mali_G72, [00000A5FB42D78C0][00000A5FB46B2800 50] Android_Mali_G72_Vulkan, [00000A5FB42D9300][00000A5FB46D0000 50] Android_Mali_G76, [00000A5FB42DD900][00000A5FB46D5000 50] Android_Mali_G76_Vulkan, [00000A5FB42DBEC0][00000A5FB46D7800 50] Android_Mali_G77, [00000A5FB42DE1C0][00000A5FB46DA000 50] Android_Mali_G77_Vulkan, [00000A5FB42DE380][00000A5FB46DC800 50] Android_Mali_G78, [00000A5FB42DE540][00000A5FB46C2800 50] Android_Mali_G78_Vulkan, [00000A5FB42DCCC0][00000A5FB46E0000 50] Android_Mali_G710, [00000A5FB42D7380][00000A5FB46E5000 50] Android_Mali_G710_Vulkan, [00000A5FB42DAF00][00000A5FB46E7800 50] Android_Xclipse_920, [00000A5FB42DD200][00000A5FB46EA000 50] Android_Xclipse_920_Vulkan, [00000A5FB42DEA80][00000A5FB46EC800 50] Android_Vulkan_SM5, [00000A5FB42D3480][00000A5FB46D2800 50] Android_PowerVR_G6xxx, [00000A5FB42DF180][00000A5FB46F0000 50] Android_PowerVR_GT7xxx, [00000A5FB42DF340][00000A5FB46F5000 50] Android_PowerVR_GE8xxx, [00000A5FB42DF500][00000A5FB46F7800 50] Android_PowerVR_GM9xxx, [00000A5FB42DE8C0][00000A5FB46FA000 50] Android_PowerVR_GM9xxx_Vulkan, [00000A5FB42DC080][00000A5FB46FC800 50] Android_TegraK1, [00000A5FB4710000][00000A5FB46E2800 50] Android_Unknown_Vulkan, [00000A5FB4712300][00000A5FB4700000 50] Oculus_Quest, [00000A5FB4712140][00000A5FB4705000 50] Oculus_Quest2, [00000A5FB4711F80][00000A5FB4707800 50] HoloLens, 
+[2022.11.16-01.24.26:447][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.16-01.24.26:450][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.11.16-01.24.26:450][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.11.16-01.24.26:450][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.16-01.24.26:450][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.16-01.24.26:450][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.11.16-01.24.26:468][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.16-01.24.26:623][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.16-01.24.26:623][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.16-01.24.26:623][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.16-01.24.26:623][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.16-01.24.26:623][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.16-01.24.26:634][  0]LogNetVersion: GamePlay_Assignment2 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2993246449)
+[2022.11.16-01.24.26:736][  0]LogSlate: Border
+[2022.11.16-01.24.26:736][  0]LogSlate: BreadcrumbButton
+[2022.11.16-01.24.26:736][  0]LogSlate: Default
+[2022.11.16-01.24.26:736][  0]LogSlate: Icons.Save
+[2022.11.16-01.24.26:736][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.16-01.24.26:736][  0]LogSlate: ListView
+[2022.11.16-01.24.26:736][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.16-01.24.26:736][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.16-01.24.26:736][  0]LogSlate: TableView.DarkRow
+[2022.11.16-01.24.26:736][  0]LogSlate: TableView.Row
+[2022.11.16-01.24.26:736][  0]LogSlate: TreeView
+[2022.11.16-01.24.26:870][  0]SourceControl: Source control is disabled
+[2022.11.16-01.24.26:891][  0]SourceControl: Source control is disabled
+[2022.11.16-01.24.26:891][  0]SourceControl: Source control is disabled
+[2022.11.16-01.24.26:980][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.16-01.24.26:980][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.11.16-01.24.26:980][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.16-01.24.27:293][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 6BFF142E4241B5CE797ACC9472BBE004 | Instance: 1F3247B14C2ACF8C6AA62FBDFEDB59CB (KLAJDI-7644).
+[2022.11.16-01.24.27:337][  0]LogPython: Using Python 3.9.7
+[2022.11.16-01.24.27:920][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.16-01.24.27:925][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.16-01.24.28:175][  0]SourceControl: Source control is disabled
+[2022.11.16-01.24.28:177][  0]SourceControl: Source control is disabled
+[2022.11.16-01.24.28:180][  0]SourceControl: Source control is disabled
+[2022.11.16-01.24.28:193][  0]LogUProjectInfo: Found projects:
+[2022.11.16-01.24.28:278][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.16-01.24.28:317][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.16-01.24.28:336][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.16-01.24.28:336][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.16-01.24.28:423][  0]LogCollectionManager: Loaded 0 collections in 0.001552 seconds
+[2022.11.16-01.24.28:499][  0]LogFileCache: Scanning file cache for directory 'C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Collections/' took 0.00s
+[2022.11.16-01.24.28:499][  0]LogFileCache: Scanning file cache for directory 'C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/Developers/klajd/Collections/' took 0.00s
+[2022.11.16-01.24.28:499][  0]LogFileCache: Scanning file cache for directory 'C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/Collections/' took 0.00s
+[2022.11.16-01.24.28:731][  0]LogEngine: Initializing Engine...
+[2022.11.16-01.24.28:741][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.16-01.24.28:743][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.16-01.24.28:945][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.16-01.24.28:945][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.16-01.24.28:955][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.24.28:979][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.16-01.24.28:979][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.16-01.24.28:998][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.16-01.24.28:998][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.16-01.24.28:998][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.16-01.24.28:999][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.16-01.24.28:999][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.16-01.24.28:999][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-01.24.28:999][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-01.24.28:999][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-01.24.28:999][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-01.24.28:999][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-01.24.28:999][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.16-01.24.28:999][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-01.24.28:999][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-01.24.28:999][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.16-01.24.28:999][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.16-01.24.28:999][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.16-01.24.29:006][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.16-01.24.29:850][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.16-01.24.29:851][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-01.24.29:853][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-01.24.29:853][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-01.24.29:853][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.16-01.24.29:853][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.16-01.24.29:854][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.16-01.24.29:854][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.16-01.24.29:854][  0]LogInit: FAudioDevice initialized.
+[2022.11.16-01.24.29:855][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.16-01.24.29:855][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.16-01.24.29:855][  0]LogInit: Texture streaming: Enabled
+[2022.11.16-01.24.29:884][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.16-01.24.29:892][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.16-01.24.29:920][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.16-01.24.29:927][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.16-01.24.29:928][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.16-01.24.30:902][  0]LogLiveCoding: Display: First instance in process group "UE_GamePlay_Assignment2_0x1a83351a", spawning console
+[2022.11.16-01.24.30:902][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.16-01.24.30:902][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.16-01.24.30:936][  0]LogInit: Transaction tracking system initialized
+[2022.11.16-01.24.30:997][  0]BlueprintLog: New page: Editor Load
+[2022.11.16-01.24.31:146][  0]LocalizationService: Localization service is disabled
+[2022.11.16-01.24.31:186][  0]TimingProfiler: Initialize
+[2022.11.16-01.24.31:186][  0]TimingProfiler: OnSessionChanged
+[2022.11.16-01.24.31:186][  0]LoadingProfiler: Initialize
+[2022.11.16-01.24.31:186][  0]LoadingProfiler: OnSessionChanged
+[2022.11.16-01.24.31:186][  0]NetworkingProfiler: Initialize
+[2022.11.16-01.24.31:186][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.16-01.24.31:186][  0]MemoryProfiler: Initialize
+[2022.11.16-01.24.31:186][  0]MemoryProfiler: OnSessionChanged
+[2022.11.16-01.24.31:753][  0]LogFileCache: Scanning file cache for directory 'C:/Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/' took 0.00s
+[2022.11.16-01.24.31:753][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.16-01.24.31:832][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.16-01.24.31:834][  0]SourceControl: Source control is disabled
+[2022.11.16-01.24.31:834][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.893
+[2022.11.16-01.24.31:834][  0]Cmd: MAP LOAD FILE="../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.16-01.24.31:834][  0]LightingResults: New page: Lighting Build
+[2022.11.16-01.24.31:840][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.24.31:840][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.24.31:840][  0]MapCheck: New page: Map Check
+[2022.11.16-01.24.31:840][  0]LightingResults: New page: Lighting Build
+[2022.11.16-01.24.31:845][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.16-01.24.31:848][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.24.31:881][  0]LogLinker: Warning: [AssetLog] C:\Users\klajd\Desktop\TestGIT\GamePlay_Assignment2\GamePlay_Assignment2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.11.16-01.24.31:881][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2022.11.16-01.24.31:948][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2022.11.16-01.24.31:950][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.11.16-01.24.31:955][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.11.16-01.24.31:961][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.11.16-01.24.31:971][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.11.16-01.24.31:971][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.16-01.24.31:972][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.24.31:972][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.11.16-01.24.31:975][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.16-01.24.31:983][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.16-01.24.31:983][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.16-01.24.31:983][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2022.11.16-01.24.31:983][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.149
+[2022.11.16-01.24.31:993][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.053
+[2022.11.16-01.24.31:993][  0]LogShaderCompilers: Display: ================================================
+[2022.11.16-01.24.31:993][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.16-01.24.31:993][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.16-01.24.31:993][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.16-01.24.31:993][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.16-01.24.31:993][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.16-01.24.31:993][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.16-01.24.31:993][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.16-01.24.31:993][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.16-01.24.31:993][  0]LogShaderCompilers: Display: ================================================
+[2022.11.16-01.24.32:084][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.16-01.24.32:092][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-01.24.32:096][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-01.24.32:100][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-01.24.32:104][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-01.24.32:118][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.16-01.24.32:118][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.16-01.24.32:119][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.16-01.24.32:119][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.16-01.24.32:119][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.16-01.24.32:119][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.16-01.24.32:120][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.16-01.24.32:120][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.16-01.24.32:120][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.16-01.24.32:120][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.16-01.24.32:121][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.16-01.24.32:121][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.16-01.24.32:121][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.16-01.24.32:121][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.16-01.24.32:122][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.16-01.24.32:122][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.16-01.24.32:122][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.16-01.24.32:122][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.16-01.24.32:122][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.16-01.24.32:122][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.16-01.24.32:123][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.16-01.24.32:315][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.16-01.24.32:317][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.16-01.24.32:319][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.16-01.24.32:320][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.16-01.24.32:321][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.16-01.24.32:346][  0]LogViewport: Scene viewport resized to 1206x742, mode Windowed.
+[2022.11.16-01.24.33:027][  0]LogStall: Startup...
+[2022.11.16-01.24.33:029][  0]LogStall: Startup complete.
+[2022.11.16-01.24.33:065][  0]LogLoad: (Engine Initialization) Total time: 10.13 seconds
+[2022.11.16-01.24.33:065][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.16-01.24.33:130][  0]LogAssetRegistry: Asset discovery search completed in 7.0761 seconds
+[2022.11.16-01.24.33:137][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.11.16-01.24.33:156][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.16-01.24.33:757][  2]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.16-01.24.41:566][227]LogSlate: Window 'New Level' being destroyed
+[2022.11.16-01.24.41:571][227]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.16-01.24.41:576][227]LightingResults: New page: Lighting Build
+[2022.11.16-01.24.41:576][227]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.11.16-01.24.41:578][227]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.24.41:578][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.24.41:578][227]MapCheck: New page: Map Check
+[2022.11.16-01.24.41:578][227]LightingResults: New page: Lighting Build
+[2022.11.16-01.24.41:583][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.16-01.24.41:585][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.16-01.24.41:649][227]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.11.16-01.24.41:649][227]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.16-01.24.41:649][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.24.41:649][227]LogAIModule: Creating AISystem for world Untitled_1
+[2022.11.16-01.24.41:697][227]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.16-01.24.41:704][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.16-01.24.41:704][227]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.16-01.24.41:705][227]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.244ms to complete.
+[2022.11.16-01.24.41:705][227]LogFileHelpers: Loading map 'Template_Default' took 0.133
+[2022.11.16-01.24.50:272][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.11.16-01.24.50:272][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.11.16-01.24.50:272][714]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2022.11.16-01.24.50:285][714]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2022.11.16-01.24.52:720][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.11.16-01.24.52:720][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.11.16-01.24.52:720][860]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_2
+[2022.11.16-01.24.52:721][860]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_2
+[2022.11.16-01.25.14:536][157]Cmd: TRANSACTION UNDO
+[2022.11.16-01.25.14:536][157]LogEditorTransaction: Undo Rotate Elements
+[2022.11.16-01.26.25:467][970]LogDerivedDataCache: C:/Users/klajd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.360 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.16-01.26.47:133][951]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.16-01.26.47:140][951]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.16-01.26.47:153][952]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.16-01.26.49:634][ 94]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2022.11.16-01.26.49:634][ 94]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.16-01.27.00:038][498]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\klajd\Downloads\Map_OP.png)
+[2022.11.16-01.27.00:085][498]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.11.16-01.27.00:089][498]LogTexture: Display: Building textures: /Game/Maps/Map_OP.Map_OP (TFO_AutoDXT, 3000X2000 X1X1) (Required Memory Estimate: 114.440918 MB), EncodeSpeed: Fast
+[2022.11.16-01.27.06:287][732]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.27.06:288][732]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.27.09:104][896]LogContentBrowser: Deferred new asset file creation: Map_OP_Mat
+[2022.11.16-01.27.09:112][896]LogContentBrowser: Creating deferred item: Map_OP_Mat
+[2022.11.16-01.27.09:122][897]LogContentBrowser: Renaming the item being created (Deferred Item: Map_OP_Mat).
+[2022.11.16-01.27.12:500][ 96]LogContentBrowser: Attempting asset rename: Map_OP_Mat -> Map_OP_Mat
+[2022.11.16-01.27.12:514][ 96]LogMaterial: Display: Missing cached shadermap for Map_OP_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E1B31FD5E37E3C0AEC75B7A522E9F8C632642035), compiling. 
+[2022.11.16-01.27.12:517][ 96]LogContentBrowser: End creating deferred item Map_OP_Mat
+[2022.11.16-01.27.20:577][570]Cmd: TRANSACTION UNDO
+[2022.11.16-01.27.20:577][570]LogEditorTransaction: Undo Create Actors
+[2022.11.16-01.27.23:833][751]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Maps/Map_OP_Mat.Map_OP_Mat
+[2022.11.16-01.27.23:836][751]LogMaterial: Display: Missing cached shadermap for Preview:Map_OP_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: EE9A35829C43D3054D61748CE115C51E3FEB7971), compiling. 
+[2022.11.16-01.27.23:869][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.27.23:946][751]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.11.16-01.27.24:202][751]LogMaterial: Display: Missing cached shadermap for Preview:Map_OP_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E08641250EA5C1D058D53681CE8FC17A82E29CF6), compiling. 
+[2022.11.16-01.27.24:206][751]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DB355A5DCE1685F0B422722DC710FB67FBAB43BA), compiling. 
+[2022.11.16-01.27.24:238][751]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.16-01.27.24:238][751]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.11.16-01.27.24:238][751]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.16-01.27.24:238][751]MaterialEditorStats: Shader Count: 0
+[2022.11.16-01.27.24:263][751]LogSlate: Took 0.010457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.16-01.27.24:272][751]LogViewport: Scene viewport resized to 375x384, mode Windowed.
+[2022.11.16-01.27.24:506][753]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.16-01.27.24:507][753]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.11.16-01.27.24:507][753]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.16-01.27.24:507][753]MaterialEditorStats: Shader Count: 4
+[2022.11.16-01.27.30:130][ 79]LogSlate: Window 'Map_OP_Mat' being destroyed
+[2022.11.16-01.27.30:154][ 79]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.27.30:154][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.28.07:883][330]Cmd: TRANSACTION UNDO
+[2022.11.16-01.28.07:883][330]LogEditorTransaction: Undo Move Elements
+[2022.11.16-01.28.08:943][382]Cmd: TRANSACTION UNDO
+[2022.11.16-01.28.08:943][382]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.16-01.28.09:578][419]Cmd: TRANSACTION UNDO
+[2022.11.16-01.28.09:578][419]LogEditorTransaction: Undo Create Actors
+[2022.11.16-01.28.13:576][656]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Maps/Map_OP.Map_OP
+[2022.11.16-01.28.13:593][656]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.11.16-01.28.13:685][656]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2022.11.16-01.28.22:990][209]LogViewport: Scene viewport resized to 1416x791, mode Windowed.
+[2022.11.16-01.28.23:053][211]LogViewport: Scene viewport resized to 775x386, mode Windowed.
+[2022.11.16-01.28.23:082][212]LogViewport: Scene viewport resized to 579x262, mode Windowed.
+[2022.11.16-01.28.23:246][222]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2022.11.16-01.28.23:658][245]LogViewport: Scene viewport resized to 1421x913, mode Windowed.
+[2022.11.16-01.28.23:727][247]LogViewport: Scene viewport resized to 631x348, mode Windowed.
+[2022.11.16-01.28.23:757][248]LogViewport: Scene viewport resized to 579x311, mode Windowed.
+[2022.11.16-01.28.24:289][278]LogSlate: Window 'Map_OP' being destroyed
+[2022.11.16-01.28.24:299][278]LogViewport: Scene viewport resized to 582x322, mode Windowed.
+[2022.11.16-01.28.26:463][404]LogViewport: Scene viewport resized to 579x345, mode Windowed.
+[2022.11.16-01.28.26:483][405]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2022.11.16-01.28.27:266][451]LogSlate: Window 'Map_OP' being destroyed
+[2022.11.16-01.28.37:887][ 72]Cmd: TRANSACTION UNDO
+[2022.11.16-01.28.37:888][ 72]LogEditorTransaction: Undo Create Actors
+[2022.11.16-01.28.50:693][814]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Maps/Map_OP_Mat.Map_OP_Mat
+[2022.11.16-01.28.50:695][814]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 92281327D9E5163718E46C18C5797695B66A7E0B), compiling. 
+[2022.11.16-01.28.50:711][814]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.28.50:807][814]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 03CB781B20E45EB6014496F37463D8E43F2FFC4A), compiling. 
+[2022.11.16-01.28.50:811][814]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A8C9AF97C4C81E34011FF40B0AC084484FD02D1A), compiling. 
+[2022.11.16-01.28.50:813][814]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 11F9D90DFC0094A4A185E3C7891929B294DF4AD8), compiling. 
+[2022.11.16-01.28.50:831][814]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.16-01.28.50:831][814]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.11.16-01.28.50:831][814]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.16-01.28.50:831][814]MaterialEditorStats: Shader Count: 0
+[2022.11.16-01.28.50:837][814]LogViewport: Scene viewport resized to 375x384, mode Windowed.
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: ================================================
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: Total job queries 45, among them cache hits 15 (33.33%)
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 5 distinct outputs (62.50%)
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: Shaders Compiled: 28
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: Jobs assigned 12, completed 8 (66.67%)
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: Average time worker was idle: 48.16 s
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.13 s
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 1.16 s
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 1.17
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.87 s
+[2022.11.16-01.28.51:000][819]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display: Average processing rate: 2.79 jobs/sec
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display: Effective parallelization: 1.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.83 sec, max 0.87 sec, min 0.80 sec)
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.70 sec, max 0.77 sec, min 0.63 sec)
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.34% of total time (compiled    2 times, average 0.83 sec, max 0.87 sec, min 0.80 sec)
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.49% of total time (compiled    2 times, average 0.70 sec, max 0.77 sec, min 0.63 sec)
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.08% of total time (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 11.40% of total time (compiled    1 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 10.74% of total time (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2022.11.16-01.28.51:001][819]LogShaderCompilers: Display: ================================================
+[2022.11.16-01.28.51:590][847]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.16-01.28.51:590][847]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.11.16-01.28.51:590][847]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.16-01.28.51:590][847]MaterialEditorStats: Shader Count: 1
+[2022.11.16-01.28.52:076][871]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.16-01.28.52:076][871]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.11.16-01.28.52:076][871]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.16-01.28.52:076][871]MaterialEditorStats: Shader Count: 2
+[2022.11.16-01.29.13:170][131]LogSlate: Window 'Map_OP_Mat' being destroyed
+[2022.11.16-01.29.13:183][131]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.29.13:183][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.30.02:295][ 65]Cmd: DELETE
+[2022.11.16-01.30.02:296][ 65]Cmd: ACTOR DELETE
+[2022.11.16-01.30.02:299][ 65]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.16-01.30.02:309][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.30.02:310][ 65]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.11.16-01.30.06:959][341]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.11.16-01.30.06:959][341]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.11.16-01.30.06:960][341]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_3
+[2022.11.16-01.30.06:960][341]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_3
+[2022.11.16-01.30.08:255][418]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.11.16-01.30.08:255][418]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.11.16-01.30.08:255][418]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_4
+[2022.11.16-01.30.08:255][418]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_4
+[2022.11.16-01.32.29:194][453]LogSlate: Window 'Save Level As' being destroyed
+[2022.11.16-01.32.29:295][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.16-01.32.29:302][453]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003731 seconds
+[2022.11.16-01.32.29:310][453]LogSavePackage: Moving output files for package: /Game/Maps/OnePiece
+[2022.11.16-01.32.29:310][453]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/OnePieceFBD0D61C47A0E30DDB8336AD5341387F.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/Maps/OnePiece.umap'
+[2022.11.16-01.32.29:321][453]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/OnePiece_BuiltData
+[2022.11.16-01.32.29:328][453]LogSavePackage: Moving output files for package: /Game/Maps/OnePiece_BuiltData
+[2022.11.16-01.32.29:328][453]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/OnePiece_BuiltData294885E74B64C5B4A4B0A482935BBB08.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/Maps/OnePiece_BuiltData.uasset'
+[2022.11.16-01.32.29:328][453]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/OnePiece_BuiltData
+[2022.11.16-01.32.29:367][453]LogFileHelpers: Saving map 'OnePiece' took 0.166
+[2022.11.16-01.32.29:367][453]Cmd: MAP LOAD FILE="../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/Maps/OnePiece.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.16-01.32.29:367][453]LightingResults: New page: Lighting Build
+[2022.11.16-01.32.29:367][453]LoadErrors: New page: Loading map: OnePiece.umap
+[2022.11.16-01.32.29:409][453]LogWorld: UWorld::CleanupWorld for OnePiece, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.32.29:409][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.32.29:409][453]MapCheck: New page: Map Check
+[2022.11.16-01.32.29:409][453]LightingResults: New page: Lighting Build
+[2022.11.16-01.32.29:414][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.16-01.32.29:417][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.16-01.32.29:422][453]LogAudio: Display: Audio Device (ID: 1) registered with world 'OnePiece'.
+[2022.11.16-01.32.29:422][453]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.16-01.32.29:422][453]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.32.29:422][453]LogAIModule: Creating AISystem for world OnePiece
+[2022.11.16-01.32.29:473][453]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.16-01.32.29:481][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.32.29:489][453]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.16-01.32.29:490][453]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2022.11.16-01.32.29:490][453]LogFileHelpers: Loading map 'OnePiece' took 0.123
+[2022.11.16-01.32.29:493][453]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.16-01.32.29:493][453]LogContentValidation: Display: Validating World /Game/Maps/OnePiece.OnePiece
+[2022.11.16-01.32.29:494][453]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/OnePiece_BuiltData.OnePiece_BuiltData
+[2022.11.16-01.32.42:115][194]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.32.42:115][194]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.32.51:931][777]LogContentBrowser: Attempting asset rename: OnePiece -> OnePiece_Map
+[2022.11.16-01.32.52:052][777]LogSavePackage: Moving output files for package: /Game/Maps/OnePiece_Map_BuiltData
+[2022.11.16-01.32.52:053][777]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/OnePiece_Map_BuiltData307DDA184261ADFBEEBF508649BDD45F.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/Maps/OnePiece_Map_BuiltData.uasset'
+[2022.11.16-01.32.52:060][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.16-01.32.52:072][777]LogSavePackage: Moving output files for package: /Game/Maps/OnePiece_Map
+[2022.11.16-01.32.52:072][777]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/OnePiece_Map45386C0146855179446838A32A8F0375.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/Maps/OnePiece_Map.umap'
+[2022.11.16-01.32.52:082][777]LogFileHelpers: No new changes to save!
+[2022.11.16-01.32.52:083][777]LogFileHelpers: Saving map 'OnePiece_Map' took 0.029
+[2022.11.16-01.32.52:103][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.16-01.32.52:110][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.16-01.32.52:116][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.32.52:119][777]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.16-01.32.52:119][777]LogContentValidation: Display: Validating World /Game/Maps/OnePiece_Map.OnePiece_Map
+[2022.11.16-01.32.52:119][777]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/OnePiece_Map_BuiltData.OnePiece_Map_BuiltData
+[2022.11.16-01.32.57:809][108]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.16-01.32.57:922][108]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.16-01.33.11:074][836]LogSlate: Took 0.000818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.16-01.33.34:373][224]LogLinker: Warning: [AssetLog] C:\Users\klajd\Desktop\TestGIT\GamePlay_Assignment2\GamePlay_Assignment2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.11.16-01.33.34:373][224]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2022.11.16-01.33.44:757][836]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.16-01.34.03:488][506]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.16-01.34.03:498][506]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.16-01.34.03:505][507]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.16-01.34.15:226][200]LogContentBrowser: Attempting asset rename: NewFolder -> CharacterArt
+[2022.11.16-01.34.15:227][200]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.16-01.34.29:078][695]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\klajd\Downloads\Game Boy Advance - One Piece - Monkey D Luffy.png)
+[2022.11.16-01.34.29:123][695]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to Window : GamePlay_Assignment2 - Unreal Editor .
+[2022.11.16-01.34.29:129][695]LogTexture: Display: Building textures: /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy (BGRA8, 710X3989 X1X1) (Required Memory Estimate: 54.019737 MB), EncodeSpeed: Fast
+[2022.11.16-01.34.41:081][972]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\klajd\Downloads\Game Boy Advance - One Piece - Roronoa Zoro.png)
+[2022.11.16-01.34.41:086][972]LogTexture: Display: Building textures: /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro.Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro (BGRA8, 286X549 X1X1) (Required Memory Estimate: 2.994804 MB), EncodeSpeed: Fast
+[2022.11.16-01.34.41:086][972]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1644)].
+[2022.11.16-01.34.49:812][341]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy
+[2022.11.16-01.34.49:812][341]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.11.16-01.34.49:904][341]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2022.11.16-01.34.53:147][532]LogSlate: Window 'Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy' being destroyed
+[2022.11.16-01.34.56:943][756]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.34.56:943][756]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.35.03:109][356]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.35.03:109][356]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.35.11:031][738]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2022.11.16-01.35.11:054][739]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2022.11.16-01.35.11:081][740]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2022.11.16-01.35.28:931][106]LogSlate: Window 'Extract sprites' being destroyed
+[2022.11.16-01.37.11:461][ 49]LogContentBrowser: Deferred new asset file creation: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.37.11:475][ 49]LogContentBrowser: Creating deferred item: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.37.11:489][ 50]LogContentBrowser: Renaming the item being created (Deferred Item: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1).
+[2022.11.16-01.37.16:376][419]LogContentBrowser: Attempting asset rename: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1 -> Luffy_Idle
+[2022.11.16-01.37.16:376][419]LogContentBrowser: End creating deferred item Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.37.46:538][681]LogContentBrowser: Deferred new asset file creation: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.37.46:551][681]LogContentBrowser: Creating deferred item: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.37.46:562][682]LogContentBrowser: Renaming the item being created (Deferred Item: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1).
+[2022.11.16-01.37.51:823][ 64]LogContentBrowser: Attempting asset rename: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1 -> Luffy_Run
+[2022.11.16-01.37.51:823][ 64]LogContentBrowser: End creating deferred item Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.40.36:955][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.16-01.40.36:964][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.16-01.40.36:971][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.11.16-01.40.36:981][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.11.16-01.40.36:989][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.16-01.40.36:995][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.16-01.40.54:804][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.16-01.40.54:811][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.16-01.40.54:818][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.11.16-01.40.54:829][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.11.16-01.40.54:835][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.16-01.40.54:842][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.11.16-01.45.14:361][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.45.14:361][371]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.45.16:167][579]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.45.16:167][579]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.45.20:092][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.16-01.45.20:100][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.16-01.45.20:107][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.16-01.45.20:118][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.45.20:124][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.16-01.45.20:131][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.16-01.45.55:427][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.16-01.45.55:435][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.16-01.45.55:441][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.16-01.45.55:451][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.45.55:457][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.16-01.45.55:464][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.45.55:476][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.16-01.45.55:483][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.16-01.45.55:489][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.16-01.45.55:499][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.16-01.45.55:506][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.16-01.45.55:512][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.16-01.45.55:524][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.11.16-01.45.55:530][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.45.55:536][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.16-01.45.55:548][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.16-01.45.55:554][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.16-01.45.55:561][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.16-01.46.01:914][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.46.01:920][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.16-01.46.01:928][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.46.01:938][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.11.16-01.46.01:946][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.46.01:953][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.46.27:603][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.46.27:610][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.16-01.46.27:617][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.16-01.46.27:628][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.11.16-01.46.27:635][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.16-01.46.27:642][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.16-01.47.17:968][179]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Luffy_Run.Luffy_Run
+[2022.11.16-01.47.17:968][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.47.18:077][179]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-01.47.20:562][339]LogSlate: Window 'Luffy_Run' being destroyed
+[2022.11.16-01.47.20:572][339]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.47.20:573][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.47.24:009][600]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Luffy_Idle.Luffy_Idle
+[2022.11.16-01.47.24:010][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.47.24:108][600]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-01.47.27:619][829]LogSlate: Window 'Luffy_Idle' being destroyed
+[2022.11.16-01.47.27:625][829]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.47.27:625][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.47.37:544][599]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.47.37:544][599]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.47.38:873][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.16-01.47.40:738][748]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.16-01.47.40:753][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.11.16-01.47.40:760][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.16-01.47.40:768][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.11.16-01.48.06:489][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.16-01.48.06:498][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.16-01.48.06:504][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.16-01.48.06:517][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.16-01.48.06:524][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.16-01.48.06:530][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.48.12:670][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.16-01.48.12:677][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.16-01.48.12:685][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.48.12:696][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.11.16-01.48.12:703][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.11.16-01.48.12:710][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.16-01.48.18:374][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.16-01.48.18:382][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.16-01.48.18:388][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.11.16-01.48.18:400][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.16-01.48.18:406][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.16-01.48.18:412][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.16-01.48.49:282][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.16-01.48.49:290][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.48.49:297][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.11.16-01.48.49:308][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.16-01.48.49:315][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.16-01.48.49:322][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.48.58:149][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.16-01.48.58:155][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.16-01.48.58:162][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.16-01.48.58:172][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.11.16-01.48.58:180][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.16-01.48.58:186][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.16-01.49.08:479][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.16-01.49.08:486][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.16-01.49.08:491][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.11.16-01.49.08:502][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.16-01.49.08:509][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.16-01.49.08:515][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.49.12:530][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.16-01.49.12:536][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.16-01.49.12:543][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.49.12:554][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.49.12:561][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.16-01.49.12:568][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.11.16-01.49.25:437][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.16-01.49.25:444][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.16-01.49.25:450][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.16-01.49.25:461][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.16-01.49.25:468][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.16-01.49.25:474][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.11.16-01.49.28:949][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.16-01.49.28:956][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.16-01.49.28:962][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.49.28:974][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.16-01.49.28:981][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.16-01.49.28:987][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.11.16-01.49.32:590][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.16-01.49.32:597][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.16-01.49.32:603][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.16-01.49.32:613][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.49.32:620][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.16-01.49.32:627][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.16-01.49.39:082][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.16-01.49.39:089][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.11.16-01.49.39:096][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.11.16-01.49.39:107][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.16-01.49.39:114][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.16-01.49.39:122][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.49.44:161][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.16-01.49.44:167][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.16-01.49.44:173][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.11.16-01.49.44:184][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.11.16-01.49.44:190][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.16-01.49.44:197][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.16-01.49.52:146][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.16-01.49.52:154][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.16-01.49.52:161][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.49.52:171][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.16-01.49.52:177][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.16-01.49.52:183][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.16-01.50.10:096][138]LogContentBrowser: Deferred new asset file creation: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.50.10:153][138]LogContentBrowser: Creating deferred item: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.50.10:182][139]LogContentBrowser: Renaming the item being created (Deferred Item: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1).
+[2022.11.16-01.50.15:295][670]LogContentBrowser: Attempting asset rename: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1 -> Luffy_Attack
+[2022.11.16-01.50.15:296][670]LogContentBrowser: End creating deferred item Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.50.17:648][891]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Luffy_Attack.Luffy_Attack
+[2022.11.16-01.50.17:649][891]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.50.17:749][891]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-01.50.24:795][414]LogSlate: Window 'Luffy_Attack' being destroyed
+[2022.11.16-01.50.24:802][414]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.50.24:802][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.50.55:142][739]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.50.55:142][739]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.50.56:317][871]LogContentBrowser: Deferred new asset file creation: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.50.56:327][871]LogContentBrowser: Creating deferred item: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.50.56:338][872]LogContentBrowser: Renaming the item being created (Deferred Item: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1).
+[2022.11.16-01.51.03:054][395]LogContentBrowser: Attempting asset rename: Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1 -> LuffyJump
+[2022.11.16-01.51.03:055][395]LogContentBrowser: End creating deferred item Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy1
+[2022.11.16-01.51.05:171][557]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/LuffyJump.LuffyJump
+[2022.11.16-01.51.05:172][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.51.05:269][557]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-01.51.08:274][763]LogSlate: Window 'LuffyJump' being destroyed
+[2022.11.16-01.51.08:279][763]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.51.08:279][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.51.27:202][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.51.27:209][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.16-01.51.27:215][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.11.16-01.51.27:227][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.11.16-01.51.27:233][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.16-01.51.27:239][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.51.44:176][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.16-01.51.44:183][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.16-01.51.44:188][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.16-01.51.44:199][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.11.16-01.51.44:205][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.16-01.51.44:212][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.11.16-01.51.58:136][871]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2022.11.16-01.51.58:163][872]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2022.11.16-01.51.58:191][873]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2022.11.16-01.52.00:434][ 72]LogSlate: Window 'Extract sprites' being destroyed
+[2022.11.16-01.52.24:358][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.16-01.52.24:359][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/OnePiece_Map' took 0.008
+[2022.11.16-01.52.24:360][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Map_OP] ([1] browsable assets)...
+[2022.11.16-01.52.24:363][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Map_OP.Map_OP]
+[2022.11.16-01.52.24:363][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Map_OP]
+[2022.11.16-01.52.24:392][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Map_OP_Auto1
+[2022.11.16-01.52.24:392][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Map_OP_Auto18E4407C64F3493F407F9ADB4A2037BEF.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/Maps/Map_OP_Auto1.uasset'
+[2022.11.16-01.52.24:393][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy] ([1] browsable assets)...
+[2022.11.16-01.52.24:395][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy]
+[2022.11.16-01.52.24:395][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy]
+[2022.11.16-01.52.24:403][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Auto1
+[2022.11.16-01.52.24:403][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M4F1C49D7462E738ADC6376B4F625D2C2.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Auto1.uasset'
+[2022.11.16-01.52.24:404][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro] ([1] browsable assets)...
+[2022.11.16-01.52.24:405][985]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro.Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro]
+[2022.11.16-01.52.24:405][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro]
+[2022.11.16-01.52.24:409][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro_Auto1
+[2022.11.16-01.52.24:409][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_RC75D500B4D9A3F8E9D60E2B1C7441700.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro_Auto1.uasset'
+[2022.11.16-01.52.24:410][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_81] ([1] browsable assets)...
+[2022.11.16-01.52.24:411][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_81.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_81]
+[2022.11.16-01.52.24:412][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_81]
+[2022.11.16-01.52.24:415][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_81_Auto1
+[2022.11.16-01.52.24:415][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M60802EFA4D93643E32A5F8A298E9C157.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_81_Auto1.uasset'
+[2022.11.16-01.52.24:416][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_219] ([1] browsable assets)...
+[2022.11.16-01.52.24:417][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_219.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_219]
+[2022.11.16-01.52.24:417][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_219]
+[2022.11.16-01.52.24:421][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_219_Auto1
+[2022.11.16-01.52.24:421][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_MFD37EC2B4D59B06119861F9091864440.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_219_Auto1.uasset'
+[2022.11.16-01.52.24:422][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_511] ([1] browsable assets)...
+[2022.11.16-01.52.24:423][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_511.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_511]
+[2022.11.16-01.52.24:423][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_511]
+[2022.11.16-01.52.24:426][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_511_Auto1
+[2022.11.16-01.52.24:426][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M4ECC303B4900CB1BCC617DBF25811158.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_511_Auto1.uasset'
+[2022.11.16-01.52.24:427][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_513] ([1] browsable assets)...
+[2022.11.16-01.52.24:428][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_513.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_513]
+[2022.11.16-01.52.24:428][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_513]
+[2022.11.16-01.52.24:431][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_513_Auto1
+[2022.11.16-01.52.24:431][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M2487F0D14C5CEBDDEB09DA94142E9D35.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_513_Auto1.uasset'
+[2022.11.16-01.52.24:432][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_510] ([1] browsable assets)...
+[2022.11.16-01.52.24:433][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_510.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_510]
+[2022.11.16-01.52.24:433][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_510]
+[2022.11.16-01.52.24:437][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_510_Auto1
+[2022.11.16-01.52.24:437][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_MD82DF56D4BEE767C3EC0E296C43FC3D0.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_510_Auto1.uasset'
+[2022.11.16-01.52.24:438][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_514] ([1] browsable assets)...
+[2022.11.16-01.52.24:439][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_514.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_514]
+[2022.11.16-01.52.24:439][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_514]
+[2022.11.16-01.52.24:442][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_514_Auto1
+[2022.11.16-01.52.24:442][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M4D3F22614318B1B4E505B283DDA781D2.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_514_Auto1.uasset'
+[2022.11.16-01.52.24:443][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_524] ([1] browsable assets)...
+[2022.11.16-01.52.24:444][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_524.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_524]
+[2022.11.16-01.52.24:444][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_524]
+[2022.11.16-01.52.24:447][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_524_Auto1
+[2022.11.16-01.52.24:447][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_MB60F18B5402528BCE84491A414091B6B.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_524_Auto1.uasset'
+[2022.11.16-01.52.24:448][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_515] ([1] browsable assets)...
+[2022.11.16-01.52.24:449][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_515.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_515]
+[2022.11.16-01.52.24:449][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_515]
+[2022.11.16-01.52.24:452][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_515_Auto1
+[2022.11.16-01.52.24:452][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M716E402243A8DE2194660B9A44BC77B4.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_515_Auto1.uasset'
+[2022.11.16-01.52.24:453][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_516] ([1] browsable assets)...
+[2022.11.16-01.52.24:454][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_516.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_516]
+[2022.11.16-01.52.24:454][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_516]
+[2022.11.16-01.52.24:458][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_516_Auto1
+[2022.11.16-01.52.24:458][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_MC4D76C1249782C62AA9413876E1B2A41.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_516_Auto1.uasset'
+[2022.11.16-01.52.24:458][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_517] ([1] browsable assets)...
+[2022.11.16-01.52.24:460][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_517.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_517]
+[2022.11.16-01.52.24:460][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_517]
+[2022.11.16-01.52.24:463][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_517_Auto1
+[2022.11.16-01.52.24:463][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M2AD7A3B242EC2B3DFF459E8B03853FA3.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_517_Auto1.uasset'
+[2022.11.16-01.52.24:464][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_518] ([1] browsable assets)...
+[2022.11.16-01.52.24:465][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_518.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_518]
+[2022.11.16-01.52.24:465][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_518]
+[2022.11.16-01.52.24:468][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_518_Auto1
+[2022.11.16-01.52.24:468][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M49A21B6146B143226C2771A86830A852.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_518_Auto1.uasset'
+[2022.11.16-01.52.24:468][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_519] ([1] browsable assets)...
+[2022.11.16-01.52.24:469][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_519.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_519]
+[2022.11.16-01.52.24:469][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_519]
+[2022.11.16-01.52.24:472][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_519_Auto1
+[2022.11.16-01.52.24:473][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M3C32180B402BB8FD515BFA93B43D6855.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_519_Auto1.uasset'
+[2022.11.16-01.52.24:473][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_523] ([1] browsable assets)...
+[2022.11.16-01.52.24:474][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_523.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_523]
+[2022.11.16-01.52.24:474][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_523]
+[2022.11.16-01.52.24:477][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_523_Auto1
+[2022.11.16-01.52.24:477][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_MC08B26B248FF807CA5E88C9399AE4BF5.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_523_Auto1.uasset'
+[2022.11.16-01.52.24:478][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_521] ([1] browsable assets)...
+[2022.11.16-01.52.24:480][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_521.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_521]
+[2022.11.16-01.52.24:480][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_521]
+[2022.11.16-01.52.24:483][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_521_Auto1
+[2022.11.16-01.52.24:483][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M4832C9A0461E4E9CFE7F3BB6E09052DE.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_521_Auto1.uasset'
+[2022.11.16-01.52.24:483][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_522] ([1] browsable assets)...
+[2022.11.16-01.52.24:485][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_522.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_522]
+[2022.11.16-01.52.24:485][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_522]
+[2022.11.16-01.52.24:488][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_522_Auto1
+[2022.11.16-01.52.24:488][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M8F0AC1F64DF44D24A76F75837C45965D.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_522_Auto1.uasset'
+[2022.11.16-01.52.24:489][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_525] ([1] browsable assets)...
+[2022.11.16-01.52.24:490][985]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_525.Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_525]
+[2022.11.16-01.52.24:490][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_525]
+[2022.11.16-01.52.24:494][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_525_Auto1
+[2022.11.16-01.52.24:494][985]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Game_Boy_Advance_-_One_Piece_-_M599640E84B53C70BD3F25C9B10608193.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Autosaves/Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Monkey_D_Luffy_Sprite_525_Auto1.uasset'
+[2022.11.16-01.52.24:494][985]LogFileHelpers: Auto-saving content packages took 0.134
+[2022.11.16-01.54.34:607][696]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.54.34:608][696]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.54.49:002][309]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/CharacterArt/Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro.Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro
+[2022.11.16-01.54.49:002][309]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.11.16-01.54.49:102][309]LogViewport: Scene viewport resized to 1419x768, mode Windowed.
+[2022.11.16-01.55.12:313][976]LogSlate: Window 'Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro' being destroyed
+[2022.11.16-01.55.31:489][433]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.55.31:489][433]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.56.15:167][ 62]LogContentBrowser: Deferred new asset file creation: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-01.56.15:174][ 62]LogContentBrowser: Creating deferred item: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-01.56.15:200][ 63]LogContentBrowser: Renaming the item being created (Deferred Item: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1).
+[2022.11.16-01.56.25:507][  7]LogContentBrowser: Attempting asset rename: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1 -> ZoroIdle
+[2022.11.16-01.56.25:508][  7]LogContentBrowser: End creating deferred item Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-01.56.31:247][484]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.56.31:247][484]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-01.56.39:940][245]LogContentBrowser: Attempting asset rename: LuffyJump -> Luffy_Jump
+[2022.11.16-01.56.40:051][245]LogSavePackage: Moving output files for package: /Game/CharacterArt/Luffy_Jump
+[2022.11.16-01.56.40:051][245]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Luffy_JumpADEC88D64E9F551E325BBE93D874CD13.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Luffy_Jump.uasset'
+[2022.11.16-01.56.40:070][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.16-01.56.40:078][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.16-01.56.40:085][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.16-01.56.40:088][245]AssetCheck: New page: Asset Save: Luffy_Jump
+[2022.11.16-01.56.40:088][245]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterArt/Luffy_Jump.Luffy_Jump
+[2022.11.16-01.56.49:684][117]LogContentBrowser: Attempting asset rename: ZoroIdle -> Zoro_Idle
+[2022.11.16-01.56.49:791][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterArt/Zoro_Idle" FILE="../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Zoro_Idle.uasset" SILENT=true
+[2022.11.16-01.56.49:794][117]LogSavePackage: Moving output files for package: /Game/CharacterArt/Zoro_Idle
+[2022.11.16-01.56.49:794][117]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Zoro_Idle92303DFC48317C23D86C568736EDF4C0.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Zoro_Idle.uasset'
+[2022.11.16-01.56.49:810][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.16-01.56.49:818][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.16-01.56.49:824][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.11.16-01.56.49:827][117]AssetCheck: New page: Asset Save: Zoro_Idle
+[2022.11.16-01.56.49:827][117]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterArt/Zoro_Idle.Zoro_Idle
+[2022.11.16-01.57.07:798][614]LogContentBrowser: Deferred new asset file creation: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-01.57.07:853][614]LogContentBrowser: Creating deferred item: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-01.57.07:868][615]LogContentBrowser: Renaming the item being created (Deferred Item: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1).
+[2022.11.16-01.57.11:268][896]LogContentBrowser: Attempting asset rename: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1 -> Zoro_Run
+[2022.11.16-01.57.11:268][896]LogContentBrowser: End creating deferred item Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-01.57.13:319][ 70]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Zoro_Run.Zoro_Run
+[2022.11.16-01.57.13:320][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.57.13:428][ 70]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-01.57.19:064][460]LogSlate: Window 'Zoro_Run' being destroyed
+[2022.11.16-01.57.19:071][460]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.57.19:071][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.58.04:552][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.16-01.58.04:559][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.11.16-01.58.04:565][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.16-01.58.04:577][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.58.04:584][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.16-01.58.04:590][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.16-01.58.15:058][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.16-01.58.15:064][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.16-01.58.15:070][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.58.15:081][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.16-01.58.15:088][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.16-01.58.15:094][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.11.16-01.58.15:105][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.58.15:111][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.58.15:119][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.16-01.58.15:129][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.16-01.58.15:136][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.58.15:142][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.11.16-01.58.39:073][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.16-01.58.39:080][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.11.16-01.58.39:086][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.58.39:097][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.11.16-01.58.39:104][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.16-01.58.39:110][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.58.49:556][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.16-01.58.49:564][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.58.49:569][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.58.49:581][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.11.16-01.58.49:587][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.16-01.58.49:594][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.58.49:605][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.58.49:612][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.16-01.58.49:618][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.16-01.58.49:629][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.16-01.58.49:636][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.16-01.58.49:642][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.16-01.58.49:654][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.16-01.58.49:662][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.16-01.58.49:668][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.11.16-01.59.03:722][457]LogContentBrowser: Deferred new asset file creation: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-01.59.03:789][457]LogContentBrowser: Creating deferred item: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-01.59.03:820][458]LogContentBrowser: Renaming the item being created (Deferred Item: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1).
+[2022.11.16-01.59.08:842][886]LogContentBrowser: Attempting asset rename: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1 -> Zoro_Attack
+[2022.11.16-01.59.08:842][886]LogContentBrowser: End creating deferred item Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-01.59.10:932][ 61]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Zoro_Attack.Zoro_Attack
+[2022.11.16-01.59.10:934][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.59.11:036][ 61]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-01.59.54:362][165]LogSlate: Window 'Zoro_Attack' being destroyed
+[2022.11.16-01.59.54:373][165]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.59.54:373][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.00.26:438][752]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-02.00.26:438][752]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.16-02.00.27:661][887]LogContentBrowser: Deferred new asset file creation: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-02.00.27:669][887]LogContentBrowser: Creating deferred item: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-02.00.27:693][888]LogContentBrowser: Renaming the item being created (Deferred Item: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1).
+[2022.11.16-02.00.36:541][771]LogContentBrowser: Attempting asset rename: Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1 -> Zoro_Jump
+[2022.11.16-02.00.36:541][771]LogContentBrowser: End creating deferred item Game_Boy_Advance_-_One_Piece_-_Roronoa_Zoro1
+[2022.11.16-02.00.39:173][  5]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Zoro_Jump.Zoro_Jump
+[2022.11.16-02.00.39:174][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.00.39:276][  5]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.00.42:401][227]LogSlate: Window 'Zoro_Jump' being destroyed
+[2022.11.16-02.00.42:406][227]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.00.42:406][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.01.20:347][616]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Zoro_Attack.Zoro_Attack
+[2022.11.16-02.01.20:348][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.01.20:456][616]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.01.49:634][432]LogSavePackage: Moving output files for package: /Game/CharacterArt/Zoro_Attack
+[2022.11.16-02.01.49:634][432]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Zoro_Attack69FA47164AEDC049F5186AB1DD1E50A8.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Zoro_Attack.uasset'
+[2022.11.16-02.01.49:646][432]AssetCheck: New page: Asset Save: Zoro_Attack
+[2022.11.16-02.01.49:646][432]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterArt/Zoro_Attack.Zoro_Attack
+[2022.11.16-02.01.52:527][620]LogSlate: Window 'Zoro_Attack' being destroyed
+[2022.11.16-02.01.52:537][620]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.01.52:537][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.01.56:208][895]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Zoro_Run.Zoro_Run
+[2022.11.16-02.01.56:209][895]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.01.56:313][895]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.02.23:471][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterArt/Zoro_Run" FILE="../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Zoro_Run.uasset" SILENT=true
+[2022.11.16-02.02.23:474][556]LogSavePackage: Moving output files for package: /Game/CharacterArt/Zoro_Run
+[2022.11.16-02.02.23:474][556]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Zoro_Run7920998E4D39DD5DB9DAFD8354247E74.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Zoro_Run.uasset'
+[2022.11.16-02.02.23:485][556]AssetCheck: New page: Asset Save: Zoro_Run
+[2022.11.16-02.02.23:485][556]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterArt/Zoro_Run.Zoro_Run
+[2022.11.16-02.02.30:294][993]LogSlate: Window 'Zoro_Run' being destroyed
+[2022.11.16-02.02.30:304][993]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.02.30:304][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.02.36:455][448]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Zoro_Jump.Zoro_Jump
+[2022.11.16-02.02.36:456][448]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.02.36:570][448]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.03.46:986][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterArt/Zoro_Jump" FILE="../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Zoro_Jump.uasset" SILENT=true
+[2022.11.16-02.03.46:990][841]LogSavePackage: Moving output files for package: /Game/CharacterArt/Zoro_Jump
+[2022.11.16-02.03.46:990][841]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Zoro_JumpF24C470F43B0AC2D896F8C83302092DD.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Zoro_Jump.uasset'
+[2022.11.16-02.03.47:002][841]AssetCheck: New page: Asset Save: Zoro_Jump
+[2022.11.16-02.03.47:002][841]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterArt/Zoro_Jump.Zoro_Jump
+[2022.11.16-02.03.49:833][ 27]LogSlate: Window 'Zoro_Jump' being destroyed
+[2022.11.16-02.03.49:844][ 27]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.03.49:844][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.03.53:710][315]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Zoro_Idle.Zoro_Idle
+[2022.11.16-02.03.53:711][315]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.03.53:822][315]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.04.01:369][799]LogSlate: Window 'Zoro_Idle' being destroyed
+[2022.11.16-02.04.01:380][799]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.04.01:380][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.04.04:678][ 46]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Zoro_Attack.Zoro_Attack
+[2022.11.16-02.04.04:679][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.04.04:796][ 46]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.04.07:978][244]LogSlate: Window 'Zoro_Attack' being destroyed
+[2022.11.16-02.04.07:989][244]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.04.07:989][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.04.11:897][536]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Zoro_Idle.Zoro_Idle
+[2022.11.16-02.04.11:898][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.04.12:008][536]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.04.28:974][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterArt/Zoro_Idle" FILE="../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Zoro_Idle.uasset" SILENT=true
+[2022.11.16-02.04.28:977][573]LogSavePackage: Moving output files for package: /Game/CharacterArt/Zoro_Idle
+[2022.11.16-02.04.28:978][573]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Zoro_Idle9825D6684C552BCA90D4BCA27404D2B5.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Zoro_Idle.uasset'
+[2022.11.16-02.04.28:989][573]AssetCheck: New page: Asset Save: Zoro_Idle
+[2022.11.16-02.04.28:989][573]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterArt/Zoro_Idle.Zoro_Idle
+[2022.11.16-02.04.31:048][711]LogSlate: Window 'Zoro_Idle' being destroyed
+[2022.11.16-02.04.31:060][711]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.04.31:060][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.04.41:813][503]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Luffy_Attack.Luffy_Attack
+[2022.11.16-02.04.41:814][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.04.41:920][503]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.05.53:947][ 46]LogSavePackage: Moving output files for package: /Game/CharacterArt/Luffy_Attack
+[2022.11.16-02.05.53:947][ 46]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Luffy_Attack262FA8504A332EB76696BB939CA23747.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Luffy_Attack.uasset'
+[2022.11.16-02.05.53:960][ 46]AssetCheck: New page: Asset Save: Luffy_Attack
+[2022.11.16-02.05.53:960][ 46]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterArt/Luffy_Attack.Luffy_Attack
+[2022.11.16-02.05.57:073][247]LogSlate: Window 'Luffy_Attack' being destroyed
+[2022.11.16-02.05.57:083][247]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.05.57:083][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.06.01:034][545]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Luffy_Idle.Luffy_Idle
+[2022.11.16-02.06.01:035][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.06.01:139][545]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.06.24:652][953]LogSavePackage: Moving output files for package: /Game/CharacterArt/Luffy_Idle
+[2022.11.16-02.06.24:652][953]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Luffy_IdleA297F62E4737F260B5C616B6C210B6D5.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Luffy_Idle.uasset'
+[2022.11.16-02.06.24:663][953]AssetCheck: New page: Asset Save: Luffy_Idle
+[2022.11.16-02.06.24:663][953]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterArt/Luffy_Idle.Luffy_Idle
+[2022.11.16-02.06.27:606][141]LogSlate: Window 'Luffy_Idle' being destroyed
+[2022.11.16-02.06.27:615][141]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.06.27:615][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.06.31:326][420]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Luffy_Jump.Luffy_Jump
+[2022.11.16-02.06.31:327][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.06.31:428][420]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.06.49:732][533]LogSavePackage: Moving output files for package: /Game/CharacterArt/Luffy_Jump
+[2022.11.16-02.06.49:732][533]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Luffy_Jump6D05C7FF47CAA1AAAB18DC8034B149BD.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Luffy_Jump.uasset'
+[2022.11.16-02.06.49:745][533]AssetCheck: New page: Asset Save: Luffy_Jump
+[2022.11.16-02.06.49:745][533]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterArt/Luffy_Jump.Luffy_Jump
+[2022.11.16-02.06.51:890][672]LogSlate: Window 'Luffy_Jump' being destroyed
+[2022.11.16-02.06.51:900][672]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.06.51:900][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.06.55:485][945]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Luffy_Run.Luffy_Run
+[2022.11.16-02.06.55:486][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.06.55:585][945]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.07.22:410][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterArt/Luffy_Run" FILE="../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Luffy_Run.uasset" SILENT=true
+[2022.11.16-02.07.22:413][583]LogSavePackage: Moving output files for package: /Game/CharacterArt/Luffy_Run
+[2022.11.16-02.07.22:413][583]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Luffy_Run513D364A496A335AC5BB998217BE3115.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/CharacterArt/Luffy_Run.uasset'
+[2022.11.16-02.07.22:424][583]AssetCheck: New page: Asset Save: Luffy_Run
+[2022.11.16-02.07.22:424][583]LogContentValidation: Display: Validating PaperFlipbook /Game/CharacterArt/Luffy_Run.Luffy_Run
+[2022.11.16-02.07.25:312][775]LogSlate: Window 'Luffy_Run' being destroyed
+[2022.11.16-02.07.25:322][775]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.07.25:324][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.07.28:617][ 23]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/CharacterArt/Luffy_Run.Luffy_Run
+[2022.11.16-02.07.28:618][ 23]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-02.07.28:718][ 23]LogViewport: Scene viewport resized to 1521x635, mode Windowed.
+[2022.11.16-02.07.31:356][189]LogSlate: Window 'Luffy_Run' being destroyed
+[2022.11.16-02.07.31:368][189]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-02.07.31:368][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-02.07.39:024][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.11.16-02.07.43:470][757]LogSlate: Window 'Save Content' being destroyed
+[2022.11.16-02.07.47:126][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.16-02.07.47:295][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_OP" FILE="../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/Maps/Map_OP.uasset" SILENT=true
+[2022.11.16-02.07.47:734][ 91]LogSavePackage: Moving output files for package: /Game/Maps/Map_OP
+[2022.11.16-02.07.47:734][ 91]LogSavePackage: Moving '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Saved/Map_OPA345146A41995165227A858B4EF459C3.tmp' to '../../../../../../Users/klajd/Desktop/TestGIT/GamePlay_Assignment2/GamePlay_Assignment2/Content/Maps/Map_OP.uasset'
